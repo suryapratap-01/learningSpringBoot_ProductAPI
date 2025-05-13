@@ -138,11 +138,6 @@ The server will start at:
 - Ensure MySQL Server is running before starting the application.
 - MySQL Workbench is optional but highly recommended for visual database management.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
